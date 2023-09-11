@@ -1,3 +1,22 @@
 body{
-    background-color: coral;
+    background-color: #E6E9F4;
 }
+
+h1{
+    font-size: 20px;
+    font-weight: 700;
+    color: #7E84A3;
+}
+
+h3{
+    font-size: 18px;
+    font-weight: 500;
+    color: #7E84A3;
+}
+
+.principal_Class{
+    font-size: 14px;
+    font-weight: 300;
+    color: #131523;
+}
+
