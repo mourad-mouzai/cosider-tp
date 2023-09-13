@@ -7,109 +7,121 @@
     <link rel="stylesheet" href="/styles/index.css" />
   </head>
   <body>
-    <h1>Projet Cosider TP</h1>
-    <h3>Formation HTML</h3>
+    <div class="container">
+      <div class="bx1">
+        <h1>Cosider TP</h1>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+          aliquip ex ea commodo consequat. Duis aute irure dolor in
+          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+          culpa qui officia deserunt mollit anim id est laborum.
+        </p>
+      </div>
+      <div class="bx2">
+        <h1>Cosider TP</h1>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+          aliquip ex ea commodo consequat. Duis aute irure dolor in
+          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+          culpa qui officia deserunt mollit anim id est laborum.
+        </p>
+      </div>
 
-    <div class="card_container">
-      <div class="card">
-        <div class="pic_continer">
-          <img
-            class="picture"
-            src="/assets/icons/ic_home.svg"
-            alt="Home_Icon"
+      <div class="card_container">
+        <div>
+          <h4>Card</h4>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          </p>
+        </div>
+        <div>
+          <h4>Card</h4>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          </p>
+        </div>
+        <div>
+          <h4>Card</h4>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          </p>
+        </div>
+      </div>
+
+      <div class="clear"></div>
+
+      <div class="main_container">
+        <div class="side_container">
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          </p>
+        </div>
+        <div class="principal_container">
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+            aliquip ex ea commodo consequat. Duis aute irure dolor in
+            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+            culpa qui officia deserunt mollit anim id est laborum.
+          </p>
+        </div>
+      </div>
+
+      <div class="clear"></div>
+
+      <form class="form_container" action="action/fichier.php" method="post">
+        <div class="groupe2_form">
+          <div class="item_form">
+            <label>votre nom</label>
+            <input type="text" name="name" placeholder="Tappez votre nom" />
+          </div>
+          <p class="gap"></p>
+          <div class="item_form">
+            <label>votre Companie</label>
+            <input
+              type="text"
+              name="company"
+              placeholder="Tappez votre companie"
+            />
+          </div>
+        </div>
+        <div class="item_form">
+          <label>votre Email</label>
+          <input type="email" name="email" placeholder="Tappez votre email" />
+        </div>
+        <div class="item_form">
+          <label>votre date de naissance</label>
+          <input
+            type="date"
+            name="date_naissance"
+            placeholder="Tappez votre date de naissance"
           />
         </div>
-
-        <div class="container">
-          <h4 class="title_card">Information</h4>
-          <b>Lorem Ipsum</b> is simply dummy text of the printing and
-          typesetting industry. Lorem Ipsum has been the industry's standard
-          dummy text ever since the 1500s, when an unknown printer took a galley
-          of type and scrambled it to make a type specimen book.
-        </div>
-      </div>
-
-      <div class="card">
-        <div class="pic_continer">
-          <img class="picture" src="/assets/icons/1.svg" alt="Home_Icon" />
+        <div class="item_form">
+          <label>votre message</label>
+          <textarea name="message" id="" cols="30" rows="10"></textarea>
         </div>
 
-        <div class="container">
-          <h4 class="title_card">Information</h4>
-          <b>Lorem Ipsum</b> is simply dummy text of the printing and
-          typesetting industry. Lorem Ipsum has been the industry's standard
-          dummy text ever since the 1500s, when an unknown printer took a galley
-          of type and scrambled it to make a type specimen book.
-        </div>
-      </div>
-
-      <div class="card2">
-        <div class="pic_continer">
-          <img class="picture" src="/assets/icons/2.svg" alt="Home_Icon" />
-        </div>
-
-        <div class="container">
-          <h4 class="title_card">Information</h4>
-          <b>Lorem Ipsum</b> is simply dummy text of the printing and
-          typesetting industry. Lorem Ipsum has been the industry's standard
-          dummy text ever since the 1500s, when an unknown printer took a galley
-          of type and scrambled it to make a type specimen book.
-        </div>
-      </div>
+        <input class="button" type="submit" name="submit" value="Valider" />
+        <!-- <input class="button" type="file" name="file" value="Fichier joint" /> -->
+      </form>
+      <!-- <button class="button_big">Big button</button> -->
     </div>
-
-    <br />
-    <br />
-
-    <div class="grid-section">
-      <div class="item1">
-        <h4 class="item_h4">Mon premier titre</h4>
-        <h5 class="item_h5">jun sous titre</h5>
-        <p class="item_p">
-          chvu c­ iicicic ein eicc bdbcjsbis bksbknsks scih bciu dbcuidbcidbcid
-          I dbubd cuyd ucbduc bdubc
-        </p>
-      </div>
-      <div class="item2">
-        <h4 class="item_h4">Mon premier titre</h4>
-        <h5 class="item_h5">jun sous titre</h5>
-        <p class="item_p">
-          chvu c­ iicicic ein eicc bdbcjsbis bksbknsks scih bciu dbcuidbcidbcid
-          I dbubd cuyd ucbduc bdubc
-        </p>
-      </div>
-      <div class="item3">
-        <h4 class="item_h4">Mon premier titre</h4>
-        <h5 class="item_h5">jun sous titre</h5>
-        <p class="item_p">
-          chvu c­ iicicic ein eicc bdbcjsbis bksbknsks scih bciu dbcuidbcidbcid
-          I dbubd cuyd ucbduc bdubc
-        </p>
-      </div>
-      <div class="item4">
-        <h4 class="item_h4">Mon premier titre</h4>
-        <h5 class="item_h5">jun sous titre</h5>
-        <p class="item_p">
-          chvu c­ iicicic ein eicc bdbcjsbis bksbknsks scih bciu dbcuidbcidbcid
-          I dbubd cuyd ucbduc bdubc
-        </p>
-      </div>
-    </div>
-
-    <div class="principal_Class">
-      <h3>Paragraphe 2</h3>
-      <p>
-        <b>Lorem Ipsum</b> is simply dummy text of the printing and typesetting
-        industry. Lorem Ipsum has been the industry's standard dummy text ever
-        since the 1500s, when an unknown printer took a galley of type and
-        scrambled it to make a type specimen book. It has survived not only five
-        centuries, but also the leap into electronic typesetting, remaining
-        essentially unchanged. It was popularised in the 1960s with the release
-        of Letraset sheets containing Lorem Ipsum passages, and more recently
-        with desktop publishing software like Aldus PageMaker including versions
-        of Lorem Ipsum.
-      </p>
-    </div>
-    <script></script>
+    <a class="fixed-button" href="www.google.com">G</a>
+    <a class="fixed-button2" href="www.facebook.com">
+      <span> Facebook </span>
+    </a>
   </body>
 </html>
