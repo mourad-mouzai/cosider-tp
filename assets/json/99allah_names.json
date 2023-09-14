@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "1",
+    "name": {
+      "en": "Allah",
+      "ar": "assets/images/allah_names/2.svg"
+    },
+    "description": {
+      "en": "With regard to the name Allah, a brief indication of the meaning is the one who is truly venerated and worshipped, the one deserving that He be singled out with all worship, because of His perfect attributes of divinity.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "2",
+    "name": {
+      "en": "Al-Ahad",
+      "ar": "assets/images/allah_names/2.svg"
+    },
+    "description": {
+      "en": "The Unique, the one who is alone and unique in every sense, the one alone in His oneness, in His self and in His attributes, and alone in His divinity. ",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "3",
+    "name": {
+      "en": "Al-A'laa",
+      "ar": "assets/images/allah_names/3.svg"
+    },
+    "description": {
+      "en": "The Most High, the one who is above everything having power and control over everything and the one who is exalted above every deficiency.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "4",
+    "name": {
+      "en": "Al-Akram",
+      "ar": "assets/images/allah_names/4.svg"
+    },
+    "description": {
+      "en": "The Most Generous, the one unequalled in His perfect generosity. ",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "5",
+    "name": {
+      "en": "Al-ilah",
+      "ar": "assets/images/allah_names/5.svg"
+    },
+    "description": {
+      "en": "The Deity, the one who alone deserves to be worshipped.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "6",
+    "name": {
+      "en": "Al-Awwal",
+      "ar": "assets/images/allah_names/6.svg"
+    },
+    "description": {
+      "en": "The First, the one who was before everything, without any beginning.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "7",
+    "name": {
+      "en": "Al-Aakhir",
+      "ar": "assets/images/allah_names/7.svg"
+    },
+    "description": {
+      "en": "The Last, the one who remains after everything else, with no end.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "8",
+    "name": {
+      "en": "Adh-Dhaahir",
+      "ar": "assets/images/allah_names/8.svg"
+    },
+    "description": {
+      "en": "The Uppermost One, the one such that nothing is above Him. He is above everything and He encompasses everything with His knowledge.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "9",
+    "name": {
+      "en": "Al-Baatin",
+      "ar": "assets/images/allah_names/9.svg"
+    },
+    "description": {
+      "en": "The Innermost One, the one who encompasses and knows the innermost secrets of everything.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "10",
+    "name": {
+      "en": "Al-Baari",
+      "ar": "assets/images/allah_names/10.svg"
+    },
+    "description": {
+      "en": "The Originator, the one who by His power originated, created and fashioned the created beings upon their separate forms without any prior example to follow and who created and fashioned the souls in the wombs.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "11",
+    "name": {
+      "en": "Al-Barr",
+      "ar": "assets/images/allah_names/11.svg"
+    },
+    "description": {
+      "en": "The Most Benign And Kind. The one who treats the creation in an excellent and kind manner and who does not interrupt His fine treatment of them, and who rectifies their affairs for them.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "12",
+    "name": {
+      "en": "Al-Baseer",
+      "ar": "assets/images/allah_names/12.svg"
+    },
+    "description": {
+      "en": "The All-Seeing. The one who sees everything such that nothing whatsoever is hidden from Him. ",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "13",
+    "name": {
+      "en": "At-Taw-waab",
+      "ar": "assets/images/allah_names/13.svg"
+    },
+    "description": {
+      "en": "The One Who Guides His Servants to Repent and Accepts their Repentance. The one who guides the servants so that they should repent to Him, grants to them that they should repent, and accepts their repentance again and again.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "14",
+    "name": {
+      "en": "Al-Jabbaar",
+      "ar": "assets/images/allah_names/14.svg"
+    },
+    "description": {
+      "en": "The Exalted and All Mighty Compeller, the one to whose might everything in the creation submits. The Exalted one who rectifies the affairs of His creation for them and who restores the weak and the broken hearted. ",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "15",
+    "name": {
+      "en": "Al-Haafidh",
+      "ar": "assets/images/allah_names/16.svg"
+    },
+    "description": {
+      "en": "The Protector. The one who alone guards and protects the heavens and the earth and whatever they contain, and who protects His servants from destruction and evil.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "16",
+    "name": {
+      "en": "Al-Haseeb",
+      "ar": "assets/images/allah_names/16.svg"
+    },
+    "description": {
+      "en": "The Reckoner Who Suffices, the one who preserves the deeds of the creation, and will bring them for account for them, and the one who suffices and protects His servants.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "17",
+    "name": {
+      "en": "Al-Hafeedh",
+      "ar": "assets/images/allah_names/17.svg"
+    },
+    "description": {
+      "en": "The Guardian, the one who protects the servants from harm, and who perfectly preserves whatever deeds His servants have done, not losing any of their deeds. The one who preserves and protects His beloved servants from falling into sins and from Satan.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "18",
+    "name": {
+      "en": "Al-Hafee",
+      "ar": "assets/images/allah_names/19.svg"
+    },
+    "description": {
+      "en": "The Benevolent, the one who is ever kind to His servants and ever responding to supplication.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "19",
+    "name": {
+      "en": "Al-Haqq",
+      "ar": "assets/images/allah_names/19.svg"
+    },
+    "description": {
+      "en": "The True One, the one true and certain in His existence, in His self, in His attributes, in His sayings and in His actions. ",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "20",
+    "name": {
+      "en": "Al-Mubeen",
+      "ar": "assets/images/allah_names/20.svg"
+    },
+    "description": {
+      "en": "The Clear And Manifest One, the one whose sole Lordship and right to be worshiped is clear and manifest. ",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "21",
+    "name": {
+      "en": "Al-Hakeem",
+      "ar": "assets/images/allah_names/21.svg"
+    },
+    "description": {
+      "en": "The All-Wise, the one fully wise in everything He decrees, and fully wise in His sayings and in His actions. There is no deficiency or error in anything He decrees, says or does.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "22",
+    "name": {
+      "en": "Al-Haleem",
+      "ar": "assets/images/allah_names/22.svg"
+    },
+    "description": {
+      "en": "The Forbearing, the one who does not immediately punish His servants for their sins, their shirk and their unbelief, but rather He gives them the opportunity to repent.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "23",
+    "name": {
+      "en": "Al-Hameed",
+      "ar": "assets/images/allah_names/23.svg"
+    },
+    "description": {
+      "en": "The One Who Is Deservedly Praised, the one who is praised and fully deserves to be praised, for His self, for His perfect names, for His attributes and for His perfect actions.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "24",
+    "name": {
+      "en": "Al-Hayy",
+      "ar": "assets/images/allah_names/24.svg"
+    },
+    "description": {
+      "en": "The Ever Living, the ever living one who always remains without any beginning nor any end, with perfect and ever-lasting life. He never dies nor passes away. ",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "25",
+    "name": {
+      "en": "Al-Qayyoom",
+      "ar": "assets/images/allah_names/25.svg"
+    },
+    "description": {
+      "en": "The Self Subsisting One Upon Whom Everything Depends, the one who sustains everything that exists, the one who has no need of anything but rather everything in existence has total need of Him.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "26",
+    "name": {
+      "en": "Al-Khabeer",
+      "ar": "assets/images/allah_names/26.svg"
+    },
+    "description": {
+      "en": "The Fully Aware, the one knowing fully everything that is, has been or will be. He knows whatever will bring harm or benefit, knowing the true condition of everything and the outcome of everything. ",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "27",
+    "name": {
+      "en": "Al-Khaaliq",
+      "ar": "assets/images/allah_names/27.svg"
+    },
+    "description": {
+      "en": "The Creator And Maker Of Everything, the one who brought everything into existence after it had previously not existed, the one who has always had the attribute of being the creator even when there was no creation in existence.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "28",
+    "name": {
+      "en": "Al-khalaaq",
+      "ar": "assets/images/allah_names/28.svg"
+    },
+    "description": {
+      "en": "The Creator Who Creates Again And Again, the one for whom it is not difficult to create anything. ",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "29",
+    "name": {
+      "en": "Ar-Ra’oof",
+      "ar": "assets/images/allah_names/29.svg"
+    },
+    "description": {
+      "en": "The Compassionate And Kind, the one who is kind and compassionate to His servants.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "30",
+    "name": {
+      "en": "Ar-Rahmaan",
+      "ar": "assets/images/allah_names/30.svg"
+    },
+    "description": {
+      "en": "The Extremely Merciful, the merciful one who has as His attribute mercy, the one possessing tremendous and extensive mercy.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "31",
+    "name": {
+      "en": "Ar-Raheem",
+      "ar": "assets/images/allah_names/31.svg"
+    },
+    "description": {
+      "en": "The Bestower Of Mercy, the one who has mercy upon creation. ",
+      "note": "Note: The difference between Ar-Rahmaan and Ar-Raheem is  that Ar-Rahmaan is with regards to Allah's self, that He has Himself extreme mercy, and  Ar-Raheem is that of His bestowing mercy upon the creation with regards to His action.",
+      "ar": ""
+    }
+  },
+  {
+    "id": "32",
+    "name": {
+      "en": "Ar-Razaaq",
+      "ar": "assets/images/allah_names/32.svg"
+    },
+    "description": {
+      "en": "The Great Provider, the one who provides extensively for the whole of creation whatever they need and who also provides the provision of beneficial knowledge and emaan for the hearts of His Obedient servants.",
+      "note": "Note: Indicating the رزق that is general, that which is for the whole creation, that He provides whatever the whole creation needs with regard to provision and sustenance, and the particular that which He provides for His beloved servants, the provision in addition to the general provision, the particular provision, the special provision, that of beneficial knowledge and eman providing sustenance for the hearts of His believing servants.",
+      "ar": ""
+    }
+  },
+  {
+    "id": "33",
+    "name": {
+      "en": "Ar-Raqeeb",
+      "ar": "assets/images/allah_names/33.svg"
+    },
+    "description": {
+      "en": "The Ever-Watchful Guardian, the one who misses nothing whatsoever, being aware of all deeds and whatever thoughts are contained in the hearts of creation.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "34",
+    "name": {
+      "en": "As-Salam",
+      "ar": "assets/images/allah_names/34.svg"
+    },
+    "description": {
+      "en": "The Impeccable One or the Flawless One, without any defect. The one free from all imperfections and deficiencies because of His perfection in His self, His attributes and His actions and the one who renders His creation safe from His punishing anyone who does not deserve punishment and renders the creation safe from His oppressing them.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "35",
+    "name": {
+      "en": "As-Samee’",
+      "ar": "assets/images/allah_names/35.svg"
+    },
+    "description": {
+      "en": "The All Hearing, the one who has as His attribute perfect hearing, the one who hears everything within the creation - even that which is most quiet and secret.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "36",
+    "name": {
+      "en": "Ash-Shaakir",
+      "ar": "assets/images/allah_names/36.svg"
+    },
+    "description": {
+      "en": "The Appreciative, the one who rewards a small deed with a great reward as mentioned by At-Tabari and Ibn-Katheer in their tafseers in explanation of it. ",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "37",
+    "name": {
+      "en": "Ash-Shakoor",
+      "ar": "assets/images/allah_names/37.svg"
+    },
+    "description": {
+      "en": "The One Most Ready To Appreciate And Reward Abundantly. The one who rewards abundantly and multiplies the rewards of His obedient servants for their deeds. Deeds which He Himself favoured them with, deeds which He Himself granted to them, the one who does not allow any of their deeds to be lost.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "38",
+    "name": {
+      "en": "Ash-Shaheed",
+      "ar": "assets/images/allah_names/38.svg"
+    },
+    "description": {
+      "en": "The Witness, the one who witnesses everything – that which is apparent and that which is hidden.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "39",
+    "name": {
+      "en": "As-Samad",
+      "ar": "assets/images/allah_names/39.svg"
+    },
+    "description": {
+      "en": "The Perfect Lord And Master Upon Whom The Whole Of The Creation Depends. The Lord and master who's control is complete, upon whom the whole of the creation depends for its needs because of His perfection in His self, His names, His attributes and His actions. The one who remains and never passes away. The one who neither eats nor drinks – free of all needs. ",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "40",
+    "name": {
+      "en": "Al-Aalim",
+      "ar": "assets/images/allah_names/41.svg"
+    },
+    "description": {
+      "en": "The All Knower Of The Seen And The Unseen. The knower of whatever is hidden and whatever is manifest – clear and apparent.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "41",
+    "name": {
+      "en": "Al- Azeez",
+      "ar": "assets/images/allah_names/41.svg"
+    },
+    "description": {
+      "en": "The Almighty or The Invincible. The almighty one whom nothing can overcome. The one mighty in vengeance when He punishes His enemies. The all powerful one who overcomes all and before whose might all submit and who has no need of anyone. ",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "42",
+    "name": {
+      "en": "Al-Adheem",
+      "ar": "assets/images/allah_names/42.svg"
+    },
+    "description": {
+      "en": "The Tremendous One or the Magnificent One. The one tremendous in greatness and the only one deservingly held in awe and venerated by the creation for His greatness in every sense.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "43",
+    "name": {
+      "en": "Al-Afuww",
+      "ar": "assets/images/allah_names/43.svg"
+    },
+    "description": {
+      "en": "The One Who Pardons Again And Again. The one who continues to pardon the sins of His servants and leaves off punishment for them. The one who pardons His slaves so that they do not suffer the consequences of their sins if they repent. ",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "44",
+    "name": {
+      "en": "Al-Aleem",
+      "ar": "assets/images/allah_names/44.svg"
+    },
+    "description": {
+      "en": "The All-Knowing. Here we will quote a long saying of Imam Ahmed (Rahimuallah) from the book Rad-alal-Jahmiyyah: 'He is the one who knows everything in the seven heavens and the seven earths and whatever is between them and whatever is beneath the ground and whatever is in the depths of the oceans. Who knows the place where every hair grows, where every tree is, each leaf that falls, the number of stones there are, the number of grains of sand there are, the amount of soil, the weight of the mountains, all of the actions of the servants (and the traces they leave behind) and their speech and every breath they take. He knows everything - nothing is hidden from Him - whilst He is upon the throne above the seven heavens. He the perfect and Most High'. He knows whatever was, whatever is and whatever will be before it occurs and He knows the true and hidden reality of everything. He knows whatever is not going to be and how it would be (if it were to exist) and He has always been the all knowing, perfect in His knowledge.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "45",
+    "name": {
+      "en": "Al-Alee",
+      "ar": "assets/images/allah_names/45.svg"
+    },
+    "description": {
+      "en": "The Exalted One, exalted in His attributes and in His greatness – high above what the wrong doers say. The one who is Himself above the creation, ascended upon the throne. The one who has ascendancy over the creation by His might.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "46",
+    "name": {
+      "en": "Al-Ghaffar",
+      "ar": "assets/images/allah_names/46.svg"
+    },
+    "description": {
+      "en": "The Oft-Forgiving. The one who forgives the sins of His servants again and again whenever the servant repents, and who hides the sins of His servants and does not expose them. ",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "47",
+    "name": {
+      "en": "Al-Ghafoor",
+      "ar": "assets/images/allah_names/47.svg"
+    },
+    "description": {
+      "en": "The One Who Forgives Extensively. The one who covers up the sins of the servants to an extent that cannot be comprehended and who forgives them so that he does not punish them for those sins.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "48",
+    "name": {
+      "en": "Al-Ghanee",
+      "ar": "assets/images/allah_names/48.svg"
+    },
+    "description": {
+      "en": "The Independent One Who Is Free Of All Needs. The one who has no need whatsoever of the creation. The one who is free from any poverty or any need. The one in whose hand lie the treasures of the heavens and the earth and of this world and the hereafter.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "49",
+    "name": {
+      "en": "Al-Fattah",
+      "ar": "assets/images/allah_names/49.svg"
+    },
+    "description": {
+      "en": "The Judge And Opener Who Distinguishes The Truth From Falsehood. The judge who judges between His servants with the truth and with justice, with His legislation and with His decree He is never unjust. The one who opens the gates of mercy and provision and whatever is close to His servants, and who opens the eyes and hearts of His servants for them to see the truth. The one who aids and grants victory to His believing servants and who distinguishes the truth from falsehood.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "50",
+    "name": {
+      "en": "Al-Qaadir",
+      "ar": "assets/images/allah_names/50.svg"
+    },
+    "description": {
+      "en": "The fully Able One. The one fully able to do anything He wills. Nothing renders Him incapable or wearies Him.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "51",
+    "name": {
+      "en": "Al-Qaahir",
+      "ar": "assets/images/allah_names/51.svg"
+    },
+    "description": {
+      "en": "The Invincible Subduer, the one who subdues His creation from above, to whom everything submits, none can repel what He ordains or depart from what He decrees.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "52",
+    "name": {
+      "en": "Al-Quddoos",
+      "ar": "assets/images/allah_names/52.svg"
+    },
+    "description": {
+      "en": "The Pure And Perfect, the pure and exalted one high above every impurity, the one whom the noble angels venerate, the one free of any opposites, rivals, consorts and children. The one having perfection as His attribute, the one declared free of all deficiencies and imperfections and free of having anyone with the like of His perfection or anyone close to it.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "53",
+    "name": {
+      "en": "Al-Qadeer",
+      "ar": "assets/images/allah_names/53.svg"
+    },
+    "description": {
+      "en": "The All-Powerful, the one who is able to do all things, nothing renders Him incapable or wearies Him. The one perfect in His power, the one who by His power created everything in existence and with His power He controls them, completes them, and gives life and death to them, and with His power He will resurrect the servants and reward and punish them, whenever He wishes something He says 'Kun' (Be), and it is.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "54",
+    "name": {
+      "en": "Al-Qareeb",
+      "ar": "assets/images/allah_names/54.svg"
+    },
+    "description": {
+      "en": "The One Who Is Near, the one who is near to the servants, He draws nearer to those who perform acts of worship and seek nearness to Him, and He is close to their hearts, he is near to everyone who makes supplication to Him, and also in addition He is near to the people with His knowledge and awareness, witnessing and encompassing everything whilst He is above the Throne (the 'Arsh').",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "55",
+    "name": {
+      "en": "Al-Qawee",
+      "ar": "assets/images/allah_names/55.svg"
+    },
+    "description": {
+      "en": "The One Perfect In Strength, the one fully able to do anything, none can overcome Him, none can repel His decrees.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "56",
+    "name": {
+      "en": "Al-Qahhaar",
+      "ar": "assets/images/allah_names/56.svg"
+    },
+    "description": {
+      "en": "The Overwhelming Subduer Who Is Never Overcome, the one who alone subdues the whole of the creation with His sovereign authority and power, nothing occurs except with His permission, everything submits to Him, the one who subdues the most obstinate and renegade tyrants with His punishment, and who subdues the whole of the creation with death.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "57",
+    "name": {
+      "en": "Al-Kabeer",
+      "ar": "assets/images/allah_names/57.svg"
+    },
+    "description": {
+      "en": "The Incomparably Great, the tremendous one, who is greater than everything. Everything else is insignificant before Him, He is greater than anything imagined by the creation - whatever they imagine, then He is greater than that.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "58",
+    "name": {
+      "en": "Al-Kareem",
+      "ar": "assets/images/allah_names/58.svg"
+    },
+    "description": {
+      "en": "The Bountiful, the Generous One abundant in good. The one who causes and makes easy every good and who bestows generously, the one so generous that He even bestows favours upon those who reject His favours and then use them as a means to disobey Him.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "59",
+    "name": {
+      "en": "Al-Lateef",
+      "ar": "assets/images/allah_names/59.svg"
+    },
+    "description": {
+      "en": "The Subtle And Kind, the one who is fully aware of the hidden details of all affairs, and of that which will benefit the servants, and who is kind to them and who causes that which is good for them to reach them, via means of which they had no expectation of. ",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "60",
+    "name": {
+      "en": "Al-Mu’min",
+      "ar": "assets/images/allah_names/60.svg"
+    },
+    "description": {
+      "en": "The True And Trustworthy, The Granter Of Security, the one who is true in His words and true to the promise He has made to the servants. And who does not disappoint His believing servants, the one who safeguards His servants in this world and the hereafter and who renders His beloved servants safe from His punishment, and who renders the whole of the creation safe from His oppressing them.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "61",
+    "name": {
+      "en": "Al-Muta’ali",
+      "ar": "assets/images/allah_names/61.svg"
+    },
+    "description": {
+      "en": "The Supreme and Exalted One, the one supremely exalted above everything by His power, the one exalted above His creation in His being above them, having power over them, and His subduing them. The one high above and far removed from having anything else like Him, and the one free and far removed from lies of those who invent lies against Him, and free from the characteristics of the creation.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "62",
+    "name": {
+      "en": "Al-Mutakabbir",
+      "ar": "assets/images/allah_names/62.svg"
+    },
+    "description": {
+      "en": "The One Supreme In Glory, The Justly And Rightfully Proud, the one who is alone truly high and mighty - exalted in glory above everything. The one who disdains and is exalted above all evil and oppression against His servants, and above everything not befitting Him.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "63",
+    "name": {
+      "en": "Al-Mateen",
+      "ar": "assets/images/allah_names/63.svg"
+    },
+    "description": {
+      "en": "The Strong, the one mighty in strength, the powerful one who’s strength does not end, and who does not experience any difficulty in His actions nor does He experience any tiredness.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "64",
+    "name": {
+      "en": "Al-Mujeeb",
+      "ar": "assets/images/allah_names/64.svg"
+    },
+    "description": {
+      "en": "The Responsive, the one who responds to supplications of those who call upon Him, wherever they are and whatever situation they are in, no matter how many they are in number, and who responds in particular to those who submit to Him and those in dire need. ",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "65",
+    "name": {
+      "en": "Al-Majeed",
+      "ar": "assets/images/allah_names/65.svg"
+    },
+    "description": {
+      "en": "The One Perfect in Glory and Honour, the one great in honour, the one greatly extolled and praised, the magnificent one having the characteristics of glory, majesty, greatness and splendour, the one greater, more tremendous and more exalted than everything, the one glorified and venerated in the hearts of His beloved servants.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "66",
+    "name": {
+      "en": "Al-Muheet",
+      "ar": "assets/images/allah_names/67.svg"
+    },
+    "description": {
+      "en": "The All-Encompassing, the one who encompasses everything with His power and with His knowledge and has fully enumerated everything, and the one who encompasses everything with His mercy and His subjugation.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "67",
+    "name": {
+      "en": "Al-Musawwir",
+      "ar": "assets/images/allah_names/67.svg"
+    },
+    "description": {
+      "en": "The Bestower Of Forms, the one who forms and fashions His creation however He wishes, the one who gives form to everything in existence, giving each created thing a particular form and appearance, which distinguishes it from all other created things.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "68",
+    "name": {
+      "en": "Al-Muqtadir",
+      "ar": "assets/images/allah_names/68.svg"
+    },
+    "description": {
+      "en": "The Omnipotent, the one whose power is absolute, the one for whom nothing is impossible, He is fully able to do whatever He wishes.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "69",
+    "name": {
+      "en": "Al-Muqeet",
+      "ar": "assets/images/allah_names/69.svg"
+    },
+    "description": {
+      "en": "The All-Powerful Maintainer, the all powerful, the guardian who witnesses everything, the one who provides each created being with the sustenance it requires. ",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "70",
+    "name": {
+      "en": "Al-Malik",
+      "ar": "assets/images/allah_names/70.svg"
+    },
+    "description": {
+      "en": "The King, the sole absolute and true sovereign king, complete and perfect in His kingship, the one whom there is no kingship above His kingship nor anywhere near it (everything being incomparable to Him and beneath Him), the sovereign owner of everything who does whatever He wishes with regard to the creation, with nothing to prevent or hinder Him, whose commands are fully effective within His dominion – the king of all kings. ",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "71",
+    "name": {
+      "en": "Al-Maalek",
+      "ar": "assets/images/allah_names/71.svg"
+    },
+    "description": {
+      "en": "The Omnipotent Sovereign, the sovereign who is fully able to do whatever He wishes, the tremendous king who created and decreed everything. ",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "72",
+    "name": {
+      "en": "Al-Mawlaa",
+      "ar": "assets/images/allah_names/72.svg"
+    },
+    "description": {
+      "en": "The Patron Lord or The Master And Supporter, the one who supports and aids the creation, supporting all of them in general and aiding the believers in particular, the lord and master who aids the believers against their enemies, the one who causes whatever will benefit His believing servants to reach them.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "73",
+    "name": {
+      "en": "Al-Muhaymin",
+      "ar": "assets/images/allah_names/73.svg"
+    },
+    "description": {
+      "en": "The Trustworthy and Ever-Watchful Witness, the one who witnesses all the deeds and sayings of the creation, the one who sent down His book and is a witness to its truth, The trustworthy one who confirms the truth of everything He says, and the ever watching guardian over His creation.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "74",
+    "name": {
+      "en": "An-Naseer",
+      "ar": "assets/images/allah_names/74.svg"
+    },
+    "description": {
+      "en": "The Helper, the one who aids the believers against their enemies and makes their feet firm when they face the enemy, and who casts terror into the hearts of their enemies.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "75",
+    "name": {
+      "en": "Al-Waahid",
+      "ar": "assets/images/allah_names/75.svg"
+    },
+    "description": {
+      "en": "The One and Only, the one who always has been and always will be one - alone with regard to His self (His 'Dhaat'), the one who has no partner, no sharer and no equal.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "76",
+    "name": {
+      "en": "Al-Waarith",
+      "ar": "assets/images/allah_names/76.svg"
+    },
+    "description": {
+      "en": "The Inheritor who remains forever, the one who remains after everything else perishes the one who inherits the earth and everything upon it, the one who remains forever and never passes away.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "77",
+    "name": {
+      "en": "Al-Waasi’",
+      "ar": "assets/images/allah_names/77.svg"
+    },
+    "description": {
+      "en": "The Vast One, the one vast with regard to His attributes and characteristics such that none can fulfil and encompass the praise that is due to Him, the one vast and tremendous in His greatness, His authority, and His sovereignty, the one who encompasses the whole of creation with His generosity, His blessings, and with the tremendous good which He grants to them, and with His mercy.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "78",
+    "name": {
+      "en": "Al-Wadood",
+      "ar": "assets/images/allah_names/78.svg"
+    },
+    "description": {
+      "en": "The Loving One And The Beloved One, the one who loves His believing servants, and the one who is loved by them, the one who loves His Prophets and Messengers and their followers, and is loved by them such that nothing is more beloved to them than Him.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "79",
+    "name": {
+      "en": "Al-Wakeel",
+      "ar": "assets/images/allah_names/79.svg"
+    },
+    "description": {
+      "en": "The Trustworthy Disposer Of Affairs, the one who is depended upon and is true to His promise, the all encompassing guardian who suffices those who place their trust and reliance in Him, the one who takes care of the affairs of His creation with His perfect knowledge and power and so is the finest disposer of their affairs.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "80",
+    "name": {
+      "en": "Al-Walee",
+      "ar": "assets/images/allah_names/80.svg"
+    },
+    "description": {
+      "en": "The Guardian Lord, the one who aids, assists, guides and grants success to the believers. The guardian the master of everything and in control of everything. ",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "81",
+    "name": {
+      "en": "Al-Wahhaab",
+      "ar": "assets/images/allah_names/81.svg"
+    },
+    "description": {
+      "en": "The Bestower, the one who bestows His bounties universally and perpetually, giving them freely for no compensation, the one who gives His bounties throughout the ages to all the inhabitants of the heavens and the earth, the one who alone grants health, wellbeing, and strength, the one who grants guidance, successful attainment of what is correct (tawfeek), and firmness upon His religion to the believers.  ",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "82",
+    "name": {
+      "en": "Al-Jameel",
+      "ar": "assets/images/allah_names/82.svg"
+    },
+    "description": {
+      "en": "The Beautiful One, the one beautiful in His self, in His Names, His attributes and His actions. The one such that everything beautiful in existence is a result and an effect of His beauty. The one so beautiful that when the people of paradise see Him in paradise they forget all the delights and bliss which they enjoy in paradise, because of His beauty. The one perfect in beauty such that nothing is like Him. ",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "83",
+    "name": {
+      "en": "Al-Jawaad",
+      "ar": "assets/images/allah_names/83.svg"
+    },
+    "description": {
+      "en": "The Munificent, the one whose generosity covers everything in existence. The one who gives liberally and generously to those in need, even when they reject and disbelieve in Him. The one who from His generosity has prepared in paradise for His believing servants that which no eye has ever seen, no ear has ever heard of, and which has never been imagined by any one.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "84",
+    "name": {
+      "en": "Al-Hakam",
+      "ar": "assets/images/allah_names/84.svg"
+    },
+    "description": {
+      "en": "The Judge, the one who judges between the creation in this world by His revelation, and who judges between them in the hereafter with His knowledge and establishes justice for those who have been wronged by others.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "85",
+    "name": {
+      "en": "Al-Hayyiyu",
+      "ar": "assets/images/allah_names/85.svg"
+    },
+    "description": {
+      "en": "The One Who Possesses Honourable Shame, the one who honourably disdains to leave the servants who supplicate to Him empty handed, the one who covers up the sins of the servants and does not expose them, the one who does not do anything unbecoming His extensive mercy, His perfect generosity, and His forbearance – rather He pardons the faults of the servants and covers them.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "86",
+    "name": {
+      "en": "Ar-Rabb",
+      "ar": "assets/images/allah_names/86.svg"
+    },
+    "description": {
+      "en": "The Lord And Nurturer, the Lord and Master who has none like Him in His Lordship, the one who nurtures and rectifies the affairs of the creation by the favours which He showers upon them, the sovereign owner who alone creates and commands, the one who controls the affairs and grants blessings, the one who nurtures, the creator, the provider, the one who aids and the one who guides.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "87",
+    "name": {
+      "en": "Ar-Rafeeq",
+      "ar": "assets/images/allah_names/87.svg"
+    },
+    "description": {
+      "en": "The Gentle, the one who is gentle with His servants, gentle in His actions, having created the creation in stages in accordance with His wisdom and gentleness.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "88",
+    "name": {
+      "en": "As-Sobbooh",
+      "ar": "assets/images/allah_names/88.svg"
+    },
+    "description": {
+      "en": "The Venerated And Perfect, the one venerated and declared free of every deficiency, the one whom the angels venerate.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "89",
+    "name": {
+      "en": "As-Sayyid",
+      "ar": "assets/images/allah_names/89.svg"
+    },
+    "description": {
+      "en": "The Lord And Master, the owner of the whole creation - all of the creation are His slaves, the Lord whom all of the creation are in total need of.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "90",
+    "name": {
+      "en": "Ash-Shafi",
+      "ar": "assets/images/allah_names/90.svg"
+    },
+    "description": {
+      "en": "The One Who Cures, the one who alone removes from the servants that which causes harm or pain to their hearts and their bodies, the one who cures whomever He wills such that none can cure except Him.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "91",
+    "name": {
+      "en": "At-Tayyib",
+      "ar": "assets/images/allah_names/91.svg"
+    },
+    "description": {
+      "en": "The Pure One, the one perfect and rightly declared free of all deficiencies and shortcomings.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "92",
+    "name": {
+      "en": "Al-Qaabid",
+      "ar": "assets/images/allah_names/92.svg"
+    },
+    "description": {
+      "en": "The Withholder, the one who withholds His provision and other than it from the servants in accordance with His wisdom and subtle kindness, and the one who takes the souls at the point of death.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "93",
+    "name": {
+      "en": "Al-Baasit",
+      "ar": "assets/images/allah_names/93.svg"
+    },
+    "description": {
+      "en": "The Grantor Of Ample Provision, the one who grants ample and extensive provision to His servants, and the who one diffuses the souls of the living in their bodies.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "94",
+    "name": {
+      "en": "Al-Moqaddim",
+      "ar": "assets/images/allah_names/94.svg"
+    },
+    "description": {
+      "en": "The One Who Gives Precedence, the one who gives precedence to whatever He loves, to whatever should be given precedence to with regard to their status and order in accordance with His wisdom.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "95",
+    "name": {
+      "en": "Al-Mu’akhir",
+      "ar": "assets/images/allah_names/95.svg"
+    },
+    "description": {
+      "en": "The One Who Puts Back, the one who puts back whatever He wishes, putting back whatever wisdom and rectitude necessitates should be put back.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "96",
+    "name": {
+      "en": "Al-Muhsin",
+      "ar": "assets/images/allah_names/96.svg"
+    },
+    "description": {
+      "en": "The One Who Acts In A Good And Fine Manner, the one such that all His actions are perfect.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "97",
+    "name": {
+      "en": "Al-Mu’tee",
+      "ar": "assets/images/allah_names/97.svg"
+    },
+    "description": {
+      "en": "The Giver, the one who gives to whomever deserves to be given to.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "98",
+    "name": {
+      "en": "Al-Mannaan",
+      "ar": "assets/images/allah_names/98.svg"
+    },
+    "description": {
+      "en": "The Beneficent Bestower Of Bounties, the one such that all favours and blessings originate from Him, He is the one who granted them, and favoured the creation with them.",
+      "note": "",
+      "ar": ""
+    }
+  },
+  {
+    "id": "99",
+    "name": {
+      "en": "Al-Witr",
+      "ar": "assets/images/allah_names/99.svg"
+    },
+    "description": {
+      "en": "The One, the one who has neither partner nor anyone like Him. He who is one in His self, one in His attributes, one in His actions, having no partner and no helper.",
+      "note": "",
+      "ar": ""
+    }
+  }
+]
